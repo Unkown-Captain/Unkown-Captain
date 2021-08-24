@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Abdul Waheed
 #### Web Developer
 
-Skills:  JS / HTML / CSS
+Skills:  JS / HTML / CSS / Python
 
 
 
